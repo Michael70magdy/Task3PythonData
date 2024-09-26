@@ -16,7 +16,6 @@ This Python project processes employee data from a CSV file and performs the fol
 - [Usage](#usage)
 - [Example Output](#example-output)
 - [Files](#files)
-- [License](#license)
 
 ## Installation
 
